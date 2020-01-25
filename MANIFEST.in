@@ -1,0 +1,7 @@
+include README.md LICENSE
+recursive-include sourcecred *
+recursive-exclude .git *
+recursive-exclude __pycache__ *
+prune sourcecred/OLD
+prune docs*
+prune img*
