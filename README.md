@@ -25,5 +25,7 @@ I want to try and use the "same" tests to validate we are okay.
 
 ### Pull Requests
 
-I'll put some skeleton files here, and largely work on the @vsoch branch.
-This way, I can open a pull request proper to get feedback (and trigger tests, etc.)
+I'll put some skeleton files here, and largely work on the @vsoch fork on the 
+[add/sourcecred-core](https://github.com/vsoch/sourcecred-python/tree/add/sourcecred-core).
+This way, I can open a pull request proper to get feedback (and trigger tests, etc.),
+and I won't bother folks with notifications here for activity that I do.
